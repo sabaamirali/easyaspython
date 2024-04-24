@@ -1,5 +1,5 @@
 #Welcome users to the game
-print("Welcome to Saba's Spicy Fortune Teller!")
+print("Welcome to Saba's Sparkly Crystal Ball!")
 name = input("What's your name? ")
 print(f"Hello, {name}! You can ask me any question about your future and I'll tell you the true answer.")
 print("But beware: you might not like what I have to say.")
